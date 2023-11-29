@@ -1,3 +1,3 @@
 # Oyster_16S
 
-This is where we will do 16S analyses. 
+Analyses for paper titled "Bivalve microbiomes are shaped by host species, size, parasite infection, and environment"
